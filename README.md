@@ -39,5 +39,5 @@ Hi 👋 I'm Preetamsing Rajaput
 ---
 
 📫 Connect With Me
-- LinkedIn: *(add link later)*  
-- Email: your-email@gmail.com
+- LinkedIn: *https://www.linkedin.com/in/preetamsing-rajaput*  
+- Email: preetamsing2001@gmail.com
